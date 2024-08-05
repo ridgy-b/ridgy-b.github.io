@@ -1,0 +1,8 @@
+
+.leaflet-cluster-anim .leaflet-marker-icon, .leaflet-cluster-anim .leaflet-marker-shadow {
+    transition-delay: 0s, 0s;
+    transition-duration: 0.2s, 0.2s;
+    transition-property: transform, opacity;
+    transition-timing-function: ease-out, ease-in;
+}
+
